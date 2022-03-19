@@ -1,0 +1,2 @@
+http://learnyouahaskell.com/
+https://github.com/tssm/up-to-date-real-world-haskell
